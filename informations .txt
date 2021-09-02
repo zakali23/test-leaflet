@@ -1,0 +1,13 @@
+urls for Leaflet :
+documentation : https://leafletjs.com/reference-1.7.1.html
+use leaflet in a react app: https://react-leaflet.js.org/
+several carte Leaflet : https://leaflet-extras.github.io/leaflet-providers/preview/
+plugins : https://github.com/geoman-io/leaflet-geoman
+urls for Mapbox :
+documentation : https://docs.mapbox.com/mapbox-gl-js/api/
+use Mapbox in a react app : https://docs.mapbox.com/help/tutorials/use-mapbox-gl-js-with-react/
+all tuto mapbox : https://docs.mapbox.com/help/tutorials/
+Draw a polygon and calculate its area : https://docs.mapbox.com/mapbox-gl-js/example/mapbox-gl-draw/
+api mapbox-draw : https://github.com/mapbox/mapbox-gl-draw &&  https://github.com/mapbox/mapbox-gl-draw/blob/main/docs/API.md
+extensions: 
+turf(Advanced geospatial )=>https://turfjs.org/
